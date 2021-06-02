@@ -1,4 +1,4 @@
-package com.ixzus.tts.core
+package com.ixzus.itts.core
 
 import android.content.Context
 import android.speech.tts.TextToSpeech
