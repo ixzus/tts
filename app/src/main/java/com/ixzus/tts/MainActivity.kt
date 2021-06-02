@@ -9,6 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         TTSHelper.getInstance().init(this)
-        TTSHelper.getInstance().speak("开机")
+        TTSHelper.getInstance().speak("启动")
     }
 }
